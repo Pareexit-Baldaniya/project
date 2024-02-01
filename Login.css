@@ -1,0 +1,79 @@
+body{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.container{
+    font-size: 15px;
+    display: inline-block;
+    background-color: transparent;
+    padding: 1px;
+    padding: 0px 50px 30px 50px;
+    margin-top: 15vb;
+    margin-left: 91vb;
+    border-radius: 10px;
+    box-shadow: 0 1px 25px 0 rgb(175, 174, 174)
+}
+
+#heading{
+    text-align: center;
+    font-size: 30px;
+    color: #279EFF;
+}
+
+.icon{
+    padding: 3px 0px;
+    background: dodgerblue;
+    color: white;
+    min-width: 20px;
+    text-align: center;
+    margin-right: 5px;
+}
+
+.input{
+    border: none;
+    border-bottom: 1px solid black;
+    margin-bottom: 10px;
+    padding: 5px 5px;
+    width: 35vh;
+}
+
+#ck{
+    float: left;
+    border: none;
+}
+
+.sp{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-top: 0%;
+    font-style: italic;
+    font-size: small;
+}
+
+button{
+    width: auto;
+    height: auto;
+    margin-right: 10px;
+    padding: 10px 15.1vh;
+    font-weight: bold;
+    color: white;
+    background-color: #279EFF; 
+    border: none;
+    border-radius: 5px;
+    box-shadow: 0 0px 9px 0 #279EFF
+}
+
+button:hover{
+    color: white;
+    background-color: #7752FE;
+    box-shadow: 0 0px 9px 0 #7752FE;
+    border-radius: 10px;
+}
+
+.container a{
+    text-decoration: none;
+    color: #7752FE;
+}
+
+#cb{
+    margin-left: 0%;
+}
